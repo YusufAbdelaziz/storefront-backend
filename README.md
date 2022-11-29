@@ -60,7 +60,7 @@ SALT_ROUNDS=10
 
 ## Postman
 
-You can press on the button below to directly to use the collection that consumes the APIs in the app.
+You can press on the button below to directly use the collection that consumes the APIs in the app.
 
 [![Run in Postman](https://run.pstmn.io/button.svg)](https://app.getpostman.com/run-collection/a004ff1e8d7a895129d0?action=collection%2Fimport)
 
